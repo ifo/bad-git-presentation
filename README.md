@@ -11,6 +11,9 @@ Talk on Git
     - Everyone will have their own copy of the entirety of the examples
     - We will merge any differences back together when we make changes
     - TODO: Talk about how the distributed model isn't perfect (but it totally is :P )
+  - Differences from classic VCS (or central VCS's, like SVN)
+    - There are differences, I promise.
+    - TODO: Write out differences
 
 
 ### Ideas to talk about (not yet ordered)
