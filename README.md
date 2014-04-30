@@ -15,5 +15,21 @@ Talk on Git
 
 ### Ideas to talk about (not yet ordered)
 
-- The anatomy of a good git commit message
-- git commit --amend
+- Meta Git
+  - The anatomy of a good git commit message
+
+- Talking about Git Commands
+  - git commit
+    - -p (--patch)
+    - --amend
+  - git rebase
+    - -i (--interactive)
+  - git init
+  - git clone
+  - git fetch
+  - git merge
+  - git pull
+  - git push
+  - git reset
+  - git branch
+  - git diff
