@@ -11,3 +11,9 @@ Talk on Git
     - Everyone will have their own copy of the entirety of the examples
     - We will merge any differences back together when we make changes
     - TODO: Talk about how the distributed model isn't perfect (but it totally is :P )
+
+
+### Ideas to talk about (not yet ordered)
+
+- The anatomy of a good git commit message
+- git commit --amend
