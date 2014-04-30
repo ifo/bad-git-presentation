@@ -25,6 +25,8 @@ Talk on Git
   - git rebase
     - -i (--interactive)
   - git init
+  - git add
+    - -p (--patch)
   - git clone
   - git fetch
   - git merge
