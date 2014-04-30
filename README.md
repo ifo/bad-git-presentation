@@ -10,3 +10,4 @@ Talk on Git
     - We're all about to use git, together.
     - Everyone will have their own copy of the entirety of the examples
     - We will merge any differences back together when we make changes
+    - TODO: Talk about how the distributed model isn't perfect (but it totally is :P )
