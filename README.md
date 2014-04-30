@@ -15,8 +15,9 @@ Talk on Git
     - There are differences, I promise.
     - TODO: Write out differences
 
-
 ### Ideas to talk about (not yet ordered)
+
+- During talk, leave slide blank, go in and change it. Ask audience for necessary commands to fix it.
 
 - Meta Git
   - The anatomy of a good git commit message
