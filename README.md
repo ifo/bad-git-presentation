@@ -20,6 +20,7 @@ Talk on Git
 
 - Meta Git
   - The anatomy of a good git commit message
+  - Index (adding before commiting)
 
 - Talking about Git Commands
   - git commit
@@ -38,3 +39,4 @@ Talk on Git
   - git reset
   - git branch
   - git diff
+    - --cached
