@@ -21,6 +21,7 @@ Talk on Git
 - Meta Git
   - The anatomy of a good git commit message
   - Index (adding before commiting)
+  - Metaphor? Code snapshots like photos? Oh wait that's a simile
 
 - Talking about Git Commands
   - git commit
