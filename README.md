@@ -8,3 +8,5 @@ Talk on Git
 2. Why Git?
   - Git is Distributed
     - We're all about to use git, together.
+    - Everyone will have their own copy of the entirety of the examples
+    - We will merge any differences back together when we make changes
